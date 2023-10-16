@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá, me chamo Lucas ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**lucas-tatsch/lucas-tatsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente estou trabalhando em um projeto de e-commerce do Grupo Zaffari, utilizando VTEX IO.
+- 🌱 Atualmente estou aprendendo React e aperfeiçoando mais o meu CSS
+- 📫 Como entrar em contato comigo: lucasptatsch@gmail.com
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+<div>
+<a href="https://github.com/lucas-tatsch">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-tatsch&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-tatsch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+          
+          
+          
