@@ -2,8 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 🔭 Atualmente estou trabalhando em um projeto de e-commerce do Grupo Zaffari, utilizando VTEX IO.
-- 🌱 Atualmente estou aprendendo React e aperfeiçoando mais o meu CSS
-- 📫 Como entrar em contato comigo: lucasptatsch@gmail.com
+🌱 No momento estou aprendendo React e aperfeiçoando mais o meu CSS
+📫 Como entrar em contato comigo: lucasptatsch@gmail.com
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
